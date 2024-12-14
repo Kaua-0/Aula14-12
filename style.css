@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+#paragrafo{
+    color: yellow;
+    font-size: 30px;
+    font-family: "Audiowide", sans-serif
+}
+
+.cafe{
+    color: rgb(20, 245, 196);
+    font-family: fantasy;
+    word-spacing: 120px;
+    text-align: initial;
+}
+
+p{
+    color: red;
+    letter-spacing: 10px;
+    text-transform: lowercase;
+    line-height: 70px;
+
+}
+
